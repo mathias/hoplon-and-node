@@ -10,3 +10,4 @@ pom.xml.asc
 node_modules/
 resources/public/
 /.boot/
+src/js/
