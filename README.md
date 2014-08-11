@@ -26,6 +26,14 @@ node src/js/node.js
 
 ### Hoplon page
 
+Compile the Hoplon pages with:
+
+```bash
+boot development
+```
+
+Now you should be able to load http://localhost:3000 and see the example app!
+
 ## License
 
 Copyright © 2014 Matt Gauger
