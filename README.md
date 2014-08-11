@@ -24,6 +24,8 @@ Now run the node app:
 node src/js/node.js
 ```
 
+And leave the server running.
+
 ### Hoplon page
 
 Compile the Hoplon pages with:
