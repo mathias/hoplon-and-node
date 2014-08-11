@@ -1,14 +1,18 @@
 # hoplon-and-node
 
-A Clojure library designed to ... well, that part is up to you.
+A demo of a Hoplon page being served by a ClojureScript node app.
 
 ## Usage
 
-FIXME
+Install the node dependencies:
+
+```bash
+npm install
+```
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Matt Gauger
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
