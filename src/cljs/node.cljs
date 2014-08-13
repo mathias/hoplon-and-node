@@ -1,5 +1,6 @@
 (ns hoplon-and-node.node
   (:require [cljs.nodejs :as node]))
+
 (node/enable-util-print!)
 
 (def restify (node/require "restify"))
