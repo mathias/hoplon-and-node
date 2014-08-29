@@ -21,7 +21,7 @@ lein cljsbuild once
 Now run the node app:
 
 ```bash
-node src/js/node.js
+node index.js
 ```
 
 And leave the server running.
