@@ -2,7 +2,7 @@
   "name": "hoplon-and-node",
   "version": "0.1.0",
   "description": "A sample Hoplon app served by node",
-  "main": "index.js",
+  "main": "src/js/node.js",
   "scripts": {
     "start": "node index.js"
   },
