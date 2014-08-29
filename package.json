@@ -1,0 +1,20 @@
+{
+  "name": "hoplon-and-node",
+  "version": "0.1.0",
+  "description": "A sample Hoplon app served by node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "restify": "2.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathias/hoplon-and-node"
+  },
+  "author": "Matt Gauger",
+  "contributors": [],
+  "license": "Eclipse Public License"
+}
+
